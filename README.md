@@ -1,9 +1,13 @@
 # Mingda Lin · Personal Homepage
 
-Static single-page research portfolio.
+Live site: https://forthloth.github.io/
 
-## Deploy on GitHub Pages
+Static single-page research portfolio, built with plain HTML and CSS.
 
-Create a public repository named `forthloth.github.io`, add the contents of this folder to its root, then enable GitHub Pages from the `main` branch and `/` directory in repository settings.
+## Files
 
-The site uses plain HTML and CSS. No build step or external runtime dependency is required.
+- `index.html` — page content
+- `styles.css` — responsive layout and visual styling
+- `assets/` — project figures
+
+GitHub Pages serves the site from the root of the `main` branch. No build step or external runtime dependency is required.
