@@ -8,6 +8,6 @@ Static single-page research portfolio, built with plain HTML and CSS.
 
 - `index.html` — page content
 - `styles.css` — responsive layout and visual styling
-- `assets/` — project figures
+- Includes links to the ZipTok3D preprint and public repositories.
 
 GitHub Pages serves the site from the root of the `main` branch. No build step or external runtime dependency is required.
